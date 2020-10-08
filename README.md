@@ -1,2 +1,2 @@
 # clones-using-html-css
-Just replications of home pages of some popular websites using HTML and CSS only...
+Replication of Google's homepage using HTML and CSS.
